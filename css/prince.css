@@ -1,0 +1,9 @@
+.mr{
+    margin: 30px;
+}
+.pr{
+    width: 100%;
+    position: absolute;
+    bottom: 5px;
+    text-align: center;
+}
